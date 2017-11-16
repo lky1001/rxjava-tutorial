@@ -13,3 +13,4 @@
 
 ## 예제
 - ObservableExample.testObservable 간단한 옵저버블 예제, 생성된 스레이드에서 Observable과 Observer가 동작.
+- ObservableExample.testFromArray fromArray 예제 추가. 생성된 스레드에서 Observable과 Observer가 동작.
